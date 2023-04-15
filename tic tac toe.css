@@ -1,0 +1,109 @@
+#game_board{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(3,1fr);
+}
+#game_board {
+    width: 100px;
+    height: 100px;
+  }
+#btn1{
+    display:flex;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    padding:10px;
+    border:2px solid;
+    font-size: 30px;
+    align-items:center;
+    justify-content:center;
+}
+#btn2{
+    display:flex;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    padding:10px;
+    border:2px solid;
+    font-size: 30px;
+    align-items:center;
+    justify-content:center;
+}
+#btn3{
+    display:flex;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    padding:10px;
+    border:2px solid;
+    font-size: 30px;
+    align-items:center;
+    justify-content:center;
+}
+#btn4{
+    display:flex;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    padding:10px;
+    border:2px solid;
+    font-size: 30px;
+    align-items:center;
+    justify-content:center;
+}
+#btn5{
+    display:flex;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    padding:10px;
+    border:2px solid;
+    font-size: 30px;
+    align-items:center;
+    justify-content:center;
+}
+#btn6{
+    display:flex;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    padding:10px;
+    border:2px solid;
+    font-size: 30px;
+    align-items:center;
+    justify-content:center;
+}
+#btn7{
+    display:flex;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    padding:10px;
+    border:2px solid;
+    font-size: 30px;
+    align-items:center;
+    justify-content:center;
+}
+#btn8{
+    display:flex;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    padding:10px;
+    border:2px solid;
+    font-size: 30px;
+    align-items:center;
+    justify-content:center;
+}
+#btn9{
+    display:flex;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    padding:10px;
+    border:2px solid;
+    font-size: 30px;
+    align-items:center;
+    justify-content:center;
+}
+
